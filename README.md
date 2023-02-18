@@ -32,8 +32,7 @@ You can view the project live at [[https://expense-tracker-api-production-8f04.u
 
     6.1. Run `mv .env.example .env`
     
-    6.2. Add the values to the needed variables
-        - Run `php artisan key:generate`
+    6.2. Run `php artisan key:generate` to generate a app key
 
 5. Migrate schemas
 
