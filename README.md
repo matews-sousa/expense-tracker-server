@@ -6,7 +6,7 @@ This repository is only for the API of the application. The client side is in th
 
 ## Demo
 
-You can view the project live at [[https://expense-tracker-api-production-8f04.up.railway.app](https://expense-tracker-server-production-bfda.up.railway.app)](https://expense-tracker-server-production-bfda.up.railway.app)
+You can view the project live at https://expense-tracker-api-production-8f04.up.railway.app
 
 ## Run Locally
 
